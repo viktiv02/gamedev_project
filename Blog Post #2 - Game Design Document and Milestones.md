@@ -51,6 +51,6 @@
 
 # 3 Milestones #
 
-1. Create smooth and engaging combat.
-2. Develop a compelling story about the protagonist and their world.
-3. Design an upgrade system that encourages different playstyles.
+1. Develop a compelling story about the protagonist and their world.
+2. Create smooth and engaging combat with an upgrade system that encourages different playstyles.
+3. Create at least 3 levels with a enemy boss fight at the end of the final level.
